@@ -1,6 +1,6 @@
-crates:
+crates:DARK
   Common:
-    drops:
+    drops:2
       - id: 1
         meta: 0
         amount: 16
@@ -11,9 +11,9 @@ crates:
         chance: 75
     amount: 1
     commands: ["say {PLAYER} has opened an Common Crate"]
-    floating-text: "Common Crate"
+    floating-text: "DARK crate"
   Uncommon:
-    drops:
+    drops:2
       - id: 263
         meta: 0
         amount: 10
